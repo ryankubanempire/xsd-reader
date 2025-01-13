@@ -1,6 +1,6 @@
 {
-    "name" : "goetas-webservices/xsd-reader",
-    "description" : "Read any XML Schema (XSD) programmatically with PHP",
+    "name" : "ryankubanempire/xsd-reader",
+    "description" : "Read any XML Schema (XSD) programmatically with PHP. This is a fork of goetas-webservices/xsd-reader",
     "keywords" : [
         "xsd",
         "xml",
@@ -13,6 +13,10 @@
         {
             "name" : "Asmir Mustafic",
             "email" : "goetas@lignano.it"
+        },
+        {
+            "name" : "Jan Ryan Felipe",
+            "email" : "ryan@kubanempire.com"
         }
     ],
     "config": {
